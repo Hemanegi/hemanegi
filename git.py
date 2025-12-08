@@ -6,3 +6,5 @@ def third_func(m,n):
     return m-n
 def forth_func(n,m):
     return n*m
+def fifth_func(a,b):
+    return a%b
